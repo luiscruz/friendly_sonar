@@ -1,0 +1,25 @@
+INFO: Java 1.8.0_77 Oracle Corporation (64-bit)
+INFO: Mac OS X 10.11.6 x86_64
+INFO: Standalone mode
+INFO: Index files
+INFO: 1 files indexed
+INFO: Python unit test coverage
+INFO: Python integration test coverage
+INFO: Python overall test coverage
+INFO:
+
+-------------  SonarLint Report  -------------
+
+  No issues to display (1 file analyzed)
+
+-------------------------------------------
+
+
+INFO: SonarLint HTML Report generated: /Users/luiscruz/dev/friendly_sonar/.sonarlint/sonarlint-report.html
+INFO: ------------------------------------------------------------------------
+INFO: EXECUTION SUCCESS
+INFO: ------------------------------------------------------------------------
+INFO: Total time: 5.344s
+INFO: Final Memory: 4M/96M
+INFO: ------------------------------------------------------------------------
+
